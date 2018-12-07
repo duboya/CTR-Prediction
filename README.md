@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # CTR Prediction 论文、个人学习笔记分享
 
 动态更新学习中实现或者阅读过的计算广告相关论文、学习资料和业界分享，作为自己学习的总结，也希望能为计算广告相关行业的同学带来便利。
