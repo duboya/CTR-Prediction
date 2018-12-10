@@ -6,6 +6,7 @@
 
 * Email: duboyabz@163.com
 * 知乎私信: [杜博亚的知乎](https://www.zhihu.com/people/freedom_forever/activities)
+* 个人博客: https://blog.csdn.net/dby_freedom?t=1
 
 ## 目录
 
