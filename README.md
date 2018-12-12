@@ -8,6 +8,8 @@
 * 知乎私信: [杜博亚的知乎](https://www.zhihu.com/people/freedom_forever/activities)
 * 个人博客: https://blog.csdn.net/dby_freedom?t=1
 
+其中，个人博客收录了本人关于CTR的理论、实践总结，欢迎访问、关注~
+
 ## 目录
 
 ### Optimization Method
