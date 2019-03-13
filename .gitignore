@@ -106,15 +106,27 @@ venv.bak/
 
 
 # ignore package
-/document
-/Image
-/.idea
-/102_FUJI
-/Img_processed
-/Img_SingleChar_recognition/extracted_letter_images/
-/Img_SingleChar_recognition/generated_captcha_images/
-/source/
-/Original Note/
-/CTR Kaggle/
-/Algorithm Practice/GBDT + LR/data/
-/Algorithm Practice/Wide & Deep/model/
+document
+Image
+.idea
+102_FUJI
+Img_processed
+Img_SingleChar_recognition/extracted_letter_images/
+Img_SingleChar_recognition/generated_captcha_images/
+source/
+Original Note/
+CTR Kaggle/
+Algorithm Practice/GBDT + LR/data/
+Algorithm Practice/Wide & Deep/model/
+.ipynb_checkpoints
+.ipynb_checkpoints/
+CTR Prediction/CTR Algorithm Practice/.ipynb_checkpoints/
+CTR Prediction/CTR Algorithm Practice/.ipynb_checkpoints
+CTR Prediction/CTR Algorithm Practice/DeepFM/data/
+CTR Algorithm Practice/GBDT + LR/data
+CTR Algorithm Practice/Wide & Deep/data
+CTR Algorithm Practice/Wide /& Deep/data
+CTR Algorithm Practice/XGBoost/.ipynb_checkpoints
+CTR_Prediction_Pipeline
+CTR_Prediction_Pipeline/
+
