@@ -56,17 +56,17 @@ Google 在17年发表的 Deep&Cross 网络，类似于 Wide&Deep, 比起 PNN 只
 
 ### Embedding
 
-- [[Negative Sampling\] Word2vec Explained Negative-Sampling Word-Embedding Method (2014)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Negative Sampling] Word2vec Explained Negative-Sampling Word-Embedding Method (2014).pdf) 
-- [[SDNE\] Structural Deep Network Embedding (THU 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[SDNE] Structural Deep Network Embedding (THU 2016).pdf) 
-- [[Item2Vec\] Item2Vec-Neural Item Embedding for Collaborative Filtering (Microsoft 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Item2Vec] Item2Vec-Neural Item Embedding for Collaborative Filtering (Microsoft 2016).pdf) 
-- [[Word2Vec\] Distributed Representations of Words and Phrases and their Compositionality (Google 2013)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Word2Vec] Distributed Representations of Words and Phrases and their Compositionality (Google 2013).pdf) 
-- [[Word2Vec\] Word2vec Parameter Learning Explained (UMich 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Word2Vec] Word2vec Parameter Learning Explained (UMich 2016).pdf) 
-- [[Node2vec\] Node2vec - Scalable Feature Learning for Networks (Stanford 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Node2vec] Node2vec - Scalable Feature Learning for Networks (Stanford 2016).pdf) 
-- [[Graph Embedding\] DeepWalk- Online Learning of Social Representations (SBU 2014)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Graph Embedding] DeepWalk- Online Learning of Social Representations (SBU 2014).pdf) 
-- [[Airbnb Embedding\] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Airbnb Embedding] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018).pdf) 
-- [[Alibaba Embedding\] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba (Alibaba 2018)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Alibaba Embedding] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba (Alibaba 2018).pdf) 
-- [[Word2Vec\] Efficient Estimation of Word Representations in Vector Space (Google 2013)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Word2Vec] Efficient Estimation of Word Representations in Vector Space (Google 2013).pdf) 
-- [[LINE\] LINE - Large-scale Information Network Embedding (MSRA 2015)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[LINE] LINE - Large-scale Information Network Embedding (MSRA 2015).pdf) 
+- [[Negative Sampling] Word2vec Explained Negative-Sampling Word-Embedding Method (2014)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Negative Sampling] Word2vec Explained Negative-Sampling Word-Embedding Method (2014).pdf) 
+- [[SDNE] Structural Deep Network Embedding (THU 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[SDNE] Structural Deep Network Embedding (THU 2016).pdf) 
+- [[Item2Vec] Item2Vec-Neural Item Embedding for Collaborative Filtering (Microsoft 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Item2Vec] Item2Vec-Neural Item Embedding for Collaborative Filtering (Microsoft 2016).pdf) 
+- [[Word2Vec] Distributed Representations of Words and Phrases and their Compositionality (Google 2013)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Word2Vec] Distributed Representations of Words and Phrases and their Compositionality (Google 2013).pdf) 
+- [[Word2Vec] Word2vec Parameter Learning Explained (UMich 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Word2Vec] Word2vec Parameter Learning Explained (UMich 2016).pdf) 
+- [[Node2vec] Node2vec - Scalable Feature Learning for Networks (Stanford 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Node2vec] Node2vec - Scalable Feature Learning for Networks (Stanford 2016).pdf) 
+- [[Graph Embedding] DeepWalk- Online Learning of Social Representations (SBU 2014)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Graph Embedding] DeepWalk- Online Learning of Social Representations (SBU 2014).pdf) 
+- [[Airbnb Embedding] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Airbnb Embedding] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018).pdf) 
+- [[Alibaba Embedding] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba (Alibaba 2018)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Alibaba Embedding] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba (Alibaba 2018).pdf) 
+- [[Word2Vec] Efficient Estimation of Word Representations in Vector Space (Google 2013)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[Word2Vec] Efficient Estimation of Word Representations in Vector Space (Google 2013).pdf) 
+- [[LINE] LINE - Large-scale Information Network Embedding (MSRA 2015)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/[LINE] LINE - Large-scale Information Network Embedding (MSRA 2015).pdf) 
 
 ### Tree Model
 
@@ -81,15 +81,15 @@ Google 在17年发表的 Deep&Cross 网络，类似于 Wide&Deep, 比起 PNN 只
 
 广告系统的架构问题
 
-- [[TensorFlow Whitepaper\]TensorFlow- Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/[TensorFlow Whitepaper]TensorFlow- Large-Scale Machine Learning on Heterogeneous Distributed Systems.pdf) 
+- [[TensorFlow Whitepaper]TensorFlow- Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/[TensorFlow Whitepaper]TensorFlow- Large-Scale Machine Learning on Heterogeneous Distributed Systems.pdf) 
 - [大数据下的广告排序技术及实践](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/大数据下的广告排序技术及实践.pdf) 
 - [美团机器学习 吃喝玩乐中的算法问题](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/美团机器学习 吃喝玩乐中的算法问题.pdf) 
-- [[Parameter Server\]Scaling Distributed Machine Learning with the Parameter Server](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/[Parameter Server]Scaling Distributed Machine Learning with the Parameter Server.pdf) 
+- [[Parameter Server]Scaling Distributed Machine Learning with the Parameter Server](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/[Parameter Server]Scaling Distributed Machine Learning with the Parameter Server.pdf) 
 - [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting.pdf) 
 - [A Comparison of Distributed Machine Learning Platforms](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/A Comparison of Distributed Machine Learning Platforms.pdf) 
 - [Efficient Query Evaluation using a Two-Level Retrieval Process](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/Efficient Query Evaluation using a Two-Level Retrieval Process.pdf) 
-- [[TensorFlow Whitepaper\]TensorFlow- A System for Large-Scale Machine Learning](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/[TensorFlow Whitepaper]TensorFlow- A System for Large-Scale Machine Learning.pdf) 
-- [[Parameter Server\]Parameter Server for Distributed Machine Learning](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/[Parameter Server]Parameter Server for Distributed Machine Learning.pdf) 
+- [[TensorFlow Whitepaper]TensorFlow- A System for Large-Scale Machine Learning](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/[TensorFlow Whitepaper]TensorFlow- A System for Large-Scale Machine Learning.pdf) 
+- [[Parameter Server]Parameter Server for Distributed Machine Learning](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/[Parameter Server]Parameter Server for Distributed Machine Learning.pdf) 
 - [Overlapping Experiment Infrastructure More, Better, Faster Experimentation](https://github.com/wzhe06/Ad-papers/blob/master/Computational Advertising Architect/Overlapping Experiment Infrastructure More%2C Better%2C Faster Experimentation.pdf) 
 
 ## 参考文献
